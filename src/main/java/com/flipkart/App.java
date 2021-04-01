@@ -1,5 +1,3 @@
-package com.flipkart;
-
 package hello;
 
 public class HelloWorld {
